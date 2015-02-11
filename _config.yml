@@ -1,11 +1,11 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: SOLID.
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: UB GAMELAB.
+description: "University of Brawijaya Game Laboratory."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
-url: "http://yourdomain.com"
+url: "http://ubgamelab.org"
 
 # Build settings
 markdown: kramdown
@@ -40,11 +40,12 @@ social:
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines: 
-    - Some Ave, 987,
-    - 23890, New York,
-    - United States.
-email: hello@solidtheme.com
-tel: +34 8493-4893
+    - Faculty of Computer Science, University of Brawijaya
+    - Veteran Road, 8,
+    - 65145, Malang, East Java
+    - Indonesia.
+email: ubgamelab@gmail.com
+tel: +62 0341 577-911
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
