@@ -84,7 +84,7 @@ members:
       - title: envelope #use for email address
         url: mailto:febri@ub.ac.id
   - name: Kurnia Prima Putra
-    position: Researcher
+    position: Research Assistant
     text: "Research Interest : Interactive Computer Graphics & Mixed Reality"
     img: prima.jpg
     social:
