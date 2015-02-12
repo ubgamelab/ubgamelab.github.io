@@ -1,7 +1,7 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: UB GAMELAB
+title: University of Brawijaya Game Laboratory.
 description: "University of Brawijaya Game Laboratory."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
