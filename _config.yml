@@ -89,6 +89,13 @@ members:
     social:
       - title: envelope #use for email address
         url: mailto:kurnia@ub.ac.id
+  - name: Aninditya Nugroho
+    position: Researcher
+    text: TODO
+    img: team07.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:aninditya@ub.ac.id
 # Clients information. Shown on Home and About pages.
 clients:
   - name: dribbble
