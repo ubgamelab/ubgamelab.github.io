@@ -35,11 +35,11 @@ social:
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines: 
-    - Game Laboratory, 1st Floor Building C 
-	- Faculty of Computer Science, University of Brawijaya
+    - Game Laboratory, 1st Floor Building C
+    - Faculty of Computer Science, University of Brawijaya
     - Veteran Road, 8, Malang
     - 65145, East Java 
-    - Indonesia.
+    - Indonesia
 email: ubgamelab@gmail.com
 tel: +62 0341 577-911
 
