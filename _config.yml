@@ -35,7 +35,8 @@ social:
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines: 
-    - Faculty of Computer Science, University of Brawijaya
+    - Game Laboratory, 1st Floor Building C 
+	- Faculty of Computer Science, University of Brawijaya
     - Veteran Road, 8, Malang
     - 65145, East Java 
     - Indonesia.
