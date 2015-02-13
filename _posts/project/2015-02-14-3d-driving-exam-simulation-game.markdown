@@ -6,10 +6,9 @@ author: Mury Fajar Dewantoro
 categories:
 - project             #important: leave this here
 img: 3d-driving-exam-simulation-game.jpg #place image (600x450) with this name in /assets/img/project/
-thumb: thumb02.jpg
+thumb: 3d-driving-exam-simulation-game.thumb.jpg
 carousel:
-- single01.jpg        #place image (1280x600) with this name in /assets/img/project/carousel/
-- single02.jpg  
+- 3d-driving-exam-simulation-game.jpg        #place image (1280x600) with this name in /assets/img/project/carousel/  
 - ...
 supervisor: Company XY
 preview: http://www.internet.com
