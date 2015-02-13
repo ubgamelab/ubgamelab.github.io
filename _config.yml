@@ -13,15 +13,15 @@ permalink: /:categories/:title
 excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
 
 colors:  #in hex code if not noted else
-  primary: "#00b3fe" #"#F70031" 
-  primary_rgb: "0,179,254" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.  
+  primary: "#00b3fe" #"#F70031"
+  primary_rgb: "0,179,254" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.
   secondary: "#384452" #"#33004D"
   link: "#428bca"
   link_hover: "#01b2fe"
   footer_heading: "#ffffff"
   footer_content: "#bfc9d3"
-  
-  
+
+
 ### CONTACT SETTINGS ###
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
@@ -29,27 +29,27 @@ social:
   - title: youtube
     url:
   - title: twitter
-    url: 
+    url:
 
-    
+
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
-  - lines: 
+  - lines:
     - Game Laboratory, 1st Floor Building C
     - Faculty of Computer Science, University of Brawijaya
     - Veteran Road, 8, Malang
-    - 65145, East Java 
+    - 65145, East Java
     - Indonesia
 email: ubgamelab@gmail.com
 tel: +62 0341 577-911
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
-    
+
 # Members information. Shown on About page.
 members:
   - name: Eriq Muhammad Adams J.
-    position: Head of Laboratory & Research Director 
+    position: Head of Laboratory & Research Director
     text: "Research Interest : Game Artificial Intelligence & Mixed Reality"
     img: eriq.jpg
     social:
@@ -71,7 +71,7 @@ members:
         url: mailto:wibiwardhono@ub.ac.id
   - name: M. Aminul Akbar
     position: Research Assistant
-    text: "Research Interest : Game Artificial Intelligence" 
+    text: "Research Interest : Game Artificial Intelligence"
     img: akbar.jpg
     social:
       - title: envelope #use for email address
@@ -106,7 +106,6 @@ clients:
     img: client03.png
   - name: VimeoPro
     img: client04.png
-    
-# Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "UB GAMELAB is a game research labs @ Faculty of Computer Science, University of Brawijaya"
 
+# Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
+about: "UB GAMELAB is a game research groups @ Faculty of Computer Science, University of Brawijaya"
