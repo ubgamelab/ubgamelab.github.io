@@ -49,43 +49,43 @@ tel: +62 0341 577-911
 # Members information. Shown on About page.
 members:
   - name: Eriq Muhammad Adams J.
-    position: Head of Laboratory & Research Director
-    text: "Research Interest : Game Artificial Intelligence & Mixed Reality"
+    position: Research Director
+    text: "Game Artificial Intelligence & Mixed Reality"
     img: eriq.jpg
     social:
       - title: envelope #use for email address
         url: mailto:eriq.adams@ub.ac.id
   - name: Issa Arwani
     position: Researcher
-    text: "Research Interest : Game Design"
+    text: "Game Design"
     img: issa.jpg
     social:
       - title: envelope #use for email address
         url: mailto:issa.arwani@ub.ac.id
   - name: Wibisono Sukmo Wardhono
     position: Researcher
-    text: "Research Interest : Mixed Reality"
+    text: "Mixed Reality"
     img: wibi.jpg
     social:
       - title: envelope #use for email address
         url: mailto:wibiwardhono@ub.ac.id
   - name: M. Aminul Akbar
     position: Research Assistant
-    text: "Research Interest : Game Artificial Intelligence"
+    text: "Game Artificial Intelligence"
     img: akbar.jpg
     social:
       - title: envelope #use for email address
         url: mailto:muhammad.aminul@ub.ac.id
   - name: Febri Abdullah
     position: Research Assistant
-    text: "Research Interest : Game Artificial Intelligence & Mixed Reality"
+    text: "Game Artificial Intelligence & Mixed Reality"
     img: febri.jpg
     social:
       - title: envelope #use for email address
         url: mailto:febri@ub.ac.id
   - name: Kurnia Prima Putra
     position: Research Assistant
-    text: "Research Interest : Interactive Computer Graphics & Mixed Reality"
+    text: "Interactive Computer Graphics & Mixed Reality"
     img: prima.jpg
     social:
       - title: envelope #use for email address
