@@ -5,8 +5,8 @@ year: 2013
 author: Ika Kusumaning Putri
 categories:
 - project             #important: leave this here
-img: adhd-game.jpg #place image (600x450) with this name in /assets/img/project/
-thumb: adhd-game.jpg
+img: adhd.jpg #place image (600x450) with this name in /assets/img/project/
+thumb: adhd.jpg
 carousel:
 - adhd-game.jpg #image (1280x600) with this name in /assets/img/project/carousel/  
 
