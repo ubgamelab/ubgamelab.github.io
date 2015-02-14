@@ -5,11 +5,11 @@ year: 2014
 author: Iput Taufiqurrohman Suwarto
 categories:
 - project             #important: leave this here
-img: 3d-driving-exam-simulation-game.jpg #place image (600x450) with this name in /assets/img/project/
-thumb: 3d-driving-exam-simulation-game.jpg
+img: vr-lib.jpg #place image (600x450) with this name in /assets/img/project/
+thumb: vr-lib.jpg
 carousel:
-- 3d-driving-exam-simulation-game.jpg        #place image (1280x600) with this name in /assets/img/project/carousel/  
-- ...
+- vr-lib.jpg        #place image (1280x600) with this name in /assets/img/project/carousel/  
+
 supervisor: Wibisono Sukmo W, Eriq M. Adams J.
 preview: http://www.youtube.com
 ---
