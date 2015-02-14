@@ -8,7 +8,7 @@ categories:
 img: adhd-game.jpg #place image (600x450) with this name in /assets/img/project/
 thumb: adhd-game.jpg
 carousel:
-- adhd-game.jpg        of Cognitive Behaviour Therapy Game for Attention Deficit Hyperactivity Disorder (ADHD) Patient Using Kinect#place image (1280x600) with this name in /assets/img/project/carousel/  
+- adhd-game.jpg #image (1280x600) with this name in /assets/img/project/carousel/  
 
 supervisor: Eriq M. Adams J, Aditya Rachmadi.
 preview: http://www.youtube.com

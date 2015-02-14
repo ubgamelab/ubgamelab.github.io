@@ -1,6 +1,6 @@
 ---
 layout: project       #important: don't change this
-title:  ""Batik Adventure" The J2ME Based Mobile Game."
+title:  "Batik Adventure The J2ME Based Mobile Game."
 year: 2013
 author: Novelia Kharisma Setyayu
 categories:
