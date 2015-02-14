@@ -1,0 +1,19 @@
+---
+layout: project       #important: don't change this
+title:  "Rhytm based Level Generator for 2D Endless Running Platformer Games"
+year: 2014
+author: Gusti Ahmad Fanshuri Alfarisy
+categories:
+- project             #important: leave this here
+img: pcg-rythm00.jpg #place image (600x450) with this name in /assets/img/project/
+thumb: pcg-rythm00.jpg
+carousel:
+- pcg-rythm00.jpg        #place image (1280x600) with this name in /assets/img/project/carousel/  
+- pcg-rythm01.jpg
+- pcg-rythm02.jpg
+supervisor: Eriq M. Adams J, Issa Arwani.
+preview: http://www.youtube.com
+---
+####Rhytm based Level Generator for 2D Endless Running Platformer Games.
+A game designer has an important role in the game development, especially in designing a level. But in the endless running platformer games, the game designer can not design an endless levels . therefore the platform is the result of procedural content generator. With a fully generated levels of procedural content generator, the game designer can not control the design of the desired level.
+A method for generating a level where the game designer has control over the level is using a rhytm based level generator. This method utilizes the action to be performed by the player in a certain time. The platform has many variety, guaranteed to be played and have more control for the game designer. However, the level of rhytm-based level generator previously implemented in 2D platformer games have a time limit (finite time) and to tying platforms to a common ground plane using the lowest y position. While running endless platformer games have no time limit (infinite time) and the lowest y position can not be predicted because the content generated continuously. This can be resolved by determining the number of levels and the level repeated continuously. If the level back to the first level then the speed will be increaseded. And tying platforms to ground plane can be controlled by sky and ground point. The results with  this approach can be applied in a rhythm-based endless running platformer games. The generated level guaranteed to be playable and have more control for the game designer. The longest time to generate the level of the 30 candidate level is 6.769 seconds. The length of time is sufficient to generate a continuous level. The average value of the linearity is 0.73, indicates that the generated level is linear and  the average of leniency is 0.45 indicates that the generated level was not too hard and not too easy.

@@ -1,0 +1,17 @@
+---
+layout: project       #important: don't change this
+title:  "Education Game to Comprehend Greatest Common Divisor (GCD) and Least Common Multiple (LCM)"
+year: 2015
+author: Firdaus Eka Rizqi
+categories:
+- project             #important: leave this here
+img: fpb-kpk00.jpg #place image (600x450) with this name in /assets/img/project/
+thumb: fpb-kpk00.jpg
+carousel:
+- fpb-kpk00.jpg        #place image (1280x600) with this name in /assets/img/project/carousel/  
+- fpb-kpk01.jpg
+supervisor: Eriq M. Adams J, Issa Arwani.
+preview: http://www.youtube.com
+---
+####Education Game to Comprehend Greatest Common Divisor (GCD) and Least Common Multiple (LCM).
+Most of elementary students has less interest in mathematic subject especially factors and multiples lesson. Game is one of entertainment media that can be used as learning media. In order to fulfill the needs of learning media of factors and multiples, educational game named Clever Fish is made using Unity Game Engine. Clever Fish is an arcade game played by single player and has 2D view. Before the game is made there is a designing process which consist of design of gameplay, level, concept arts, and game screen flow. According to the design, the game is implemented using Unity Game Engine with C# as programming language. To test the functionality of the game there are two tests which consist of test suite and playtesting. The test results show that the functionality of Clever Fish game has run well and this game can train and deepen mathematic ability of the player especially in determining factors and multiples of numbers and also giving good entertainment from interesting gameplay.
