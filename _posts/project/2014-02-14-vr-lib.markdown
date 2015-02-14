@@ -1,0 +1,17 @@
+---
+layout: project       #important: don't change this
+title:  "3D Virtual Reality Library of Brawijaya University"
+year: 2014
+author: Iput Taufiqurrohman Suwarto
+categories:
+- project             #important: leave this here
+img: 3d-driving-exam-simulation-game.jpg #place image (600x450) with this name in /assets/img/project/
+thumb: 3d-driving-exam-simulation-game.jpg
+carousel:
+- 3d-driving-exam-simulation-game.jpg        #place image (1280x600) with this name in /assets/img/project/carousel/  
+- ...
+supervisor: Wibisono Sukmo W, Eriq M. Adams J.
+preview: http://www.youtube.com
+---
+####3D Virtual Reality Library of Brawijaya University.
+A library is organized for use and maintained by a public body, an institution, a corporation, or a private individual. Public and institutional collections and services may be intended for use by people who choose not to—or cannot afford to—purchase an extensive collection themselves, who need material no individual can reasonably be expected to have, or who require professional assistance with their research. when the visitors arrive at the library, they always find the site plan. this site plan use to search location of the book. However, if that library has very big area and more than one floor, sometimes a site plan cannot cover all of the location information of the library clearly. Because of that problem, some visitors will be very difficult to find or go to some library place that they want. Therefore , it takes an alternative that can help provide an understanding architecture building over 2D representations  in a media that is through a Virtual Reality entitled " Virtual Reality 3D University Of Brawijaya Library". Methods and design of this Virtual Reality requires three phases there are observation, design and implementation. All three phases are necessary in completing this Virtual Reality, by providing architectural building resembling a library in 3D. As a result from testing, ranging from the validity test , unit , integration , and performance, it can be concluded that this virtual reality has fulfilled the functional and non functional requirements and produce the minimum specification hardware requirements to execute the Virtual Reality by taking the level of performance based FPS ( Frames per Second ).

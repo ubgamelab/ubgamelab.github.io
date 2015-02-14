@@ -10,7 +10,7 @@ thumb: 3d-driving-exam-simulation-game.jpg
 carousel:
 - 3d-driving-exam-simulation-game.jpg        #place image (1280x600) with this name in /assets/img/project/carousel/  
 
-supervisor: Eriq M. Adams J, Wibisono Sukmo W.
+supervisor: Eriq M. Adams J, Issa Arwani.
 preview: http://www.youtube.com
 ---
 ####3D Driving Exam Simulation Game.
