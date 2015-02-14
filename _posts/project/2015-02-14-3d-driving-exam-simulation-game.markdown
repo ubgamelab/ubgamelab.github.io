@@ -9,7 +9,7 @@ img: 3d-driving-exam-simulation-game.jpg #place image (600x450) with this name i
 thumb: 3d-driving-exam-simulation-game.jpg
 carousel:
 - 3d-driving-exam-simulation-game.jpg        #place image (1280x600) with this name in /assets/img/project/carousel/  
-- ...
+
 supervisor: Eriq M. Adams J, Wibisono Sukmo W.
 preview: http://www.youtube.com
 ---

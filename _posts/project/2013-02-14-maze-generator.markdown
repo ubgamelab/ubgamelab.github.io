@@ -9,7 +9,7 @@ img: maze-generator.jpg #place image (600x450) with this name in /assets/img/pro
 thumb: maze-generator.jpg
 carousel:
 - maze-generator.jpg        #place image (1280x600) with this name in /assets/img/project/carousel/  
-- ...
+
 supervisor: Eriq M. Adams J, Novanto Yudhistira
 preview: http://www.youtube.com
 ---

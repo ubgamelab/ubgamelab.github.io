@@ -1,0 +1,19 @@
+---
+layout: project       #important: don't change this
+title:  “Majapahit Empire” Strategy Game Online Server
+year: 2014
+author: Adityo Nugroho
+categories:
+- project             #important: leave this here
+img: mfg.jpg #place image (600x450) with this name in /assets/img/project/
+thumb: mfg.jpg
+carousel:
+- mfg.jpg        #place image (1280x600) with this name in /assets/img/project/carousel/  
+
+supervisor: Eriq M. Adams J, Wibisono Sukmo W.
+preview: http://www.youtube.com
+---
+####“Majapahit Empire” Strategy Game Online Server
+Majapahit Empire strategy game is a multiplayer competitive entertainment facilities as well as multi-platform that also functions as a means of towing the interest of future generations to be more concerned about the historical heritage of the nation, especially the history of the kingdom of Majapahit. In the game, players will assume the role as head of the village of an area that is under the governance system of the Majapahit Kingdom. As the head of the village, players are required to play an active role in developing, maintaining prosperity and security of the region lead.
+The design of online game servers through two stages of the game design concept and technical design. Implementation of the gameplay algorithm is performed entirely with MySQL query language, while the web implementation will be implemented PHP web-based website that serves as an interface between the online game servers with compatible game clients.
+Testing applications using white-box testing methods with the use of the base path technique for unit testing and integration testing and black-box testing methods with validation testing strategies. From the test results can be deduced that the online game server has been able to operate as it should to meet the functional and non-functional requirements.
